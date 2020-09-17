@@ -2,12 +2,12 @@
 
 ## Contacts
 
-##### Email: [olga.ilin@gmail.com](olga.ilin@gmail.com)
-##### GitHub: [RaspAcid](https://github.com/RaspAcid)
+#### Email: [olga.ilin@gmail.com](olga.ilin@gmail.com)
+#### GitHub: [RaspAcid](https://github.com/RaspAcid)
 
 ## Summary
 
-##### I don't have work exerience in Web Development, but I'm interested in this theme, so I do my best to improve my skills and become great specialist.
+#### I don't have work exerience in Web Development, but I'm interested in this theme, so I do my best to improve my skills and become great specialist.
 
 ### Skills
 
@@ -20,7 +20,7 @@
 
 ## Experience and projects
 
-##### I don't have any right now but there will be some soon.
+#### I don't have any right now but there will be some soon.
 
 ## Code Example
 
@@ -39,4 +39,4 @@
 
 ## English
 
-##### Language Level - B2 
+#### Language Level - B2 
