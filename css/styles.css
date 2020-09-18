@@ -1,0 +1,150 @@
+/*Palette
+#0f2650
+#305b95
+#b09f70
+#cee2e9
+#40514E
+*/
+
+a {
+  color: #305b95;
+  display: block;
+  font-family: 'Merriweather', serif;
+  margin: 50px 0;
+  text-decoration: none;
+}
+a:hover {
+  color: #0f2650;
+}
+
+body {
+  color: #40514E;
+  font-family: 'Merriweather', serif;
+  margin: 0 auto;
+  text-align: center;
+  width: 1000px;
+}
+
+h1 {
+  color: #0f2650;
+  font-family: 'Dancing Script', cursive;
+  font-size: 4rem;
+  line-height: 1;
+  margin: 0 auto ;
+  padding: 80px 0 0 0;
+  position: relative;
+}
+
+h2 {
+  color: #305b95;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+hr {
+  border: dotted #b09f70 6px;
+  border-bottom: none;
+  width: 4%;
+}
+
+p {
+  line-height: 2;
+  margin: 10px 0;
+}
+
+/*CLASSES*/
+
+.bottom-container {
+  background-image: url(../img/3.jpg);
+  background-size: cover;
+  height: 80px;
+}
+
+.coding-cat {
+  border-radius: 150px;
+  float: left;
+  margin-right: 50px;
+  width: 40%;
+}
+
+.contact-message {
+  margin: 40px auto 60px;
+  width: 40%;
+}
+
+.copyright {
+  color: #0f2650;
+  font-size: 0.75rem;
+  padding-top: 30px;
+}
+
+.education-pic {
+  float: right;
+  margin-left: 30px;
+  width: 40%;
+}
+
+.git-icon {
+  margin: 0;
+  position: absolute;
+  right: 5px;
+  top: 5px;
+}
+
+.gmail-icon {
+  margin: 0;
+  position: absolute;
+  right: 45px;
+  top: 5px;
+}
+
+.middle-container {
+  display: inline-block;
+  margin: 0;
+  position: relative;
+  width: 1000px;
+}
+
+.my-photo {
+  margin-top: 30px;
+  width: 25%;
+}
+
+.profile {
+  margin-bottom: 30px;
+}
+
+.prog {
+  color: #305b95;
+  font-weight: normal;
+  margin: 10px auto 10px auto;
+}
+
+.skill-row {
+  line-height: 1.5;
+  margin: 30px auto 50px auto;
+  text-align: left;
+  width: 50%;
+}
+
+.skills {
+  margin-bottom: 80px;
+}
+
+.skills-list {
+  padding: 15px;
+}
+
+.top-container {
+  background-image: url(../img/2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 200px;
+  margin: 0;
+  position: relative;
+}
